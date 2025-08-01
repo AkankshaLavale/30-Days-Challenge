@@ -12,6 +12,7 @@ Every day, I’ll be solving DSA problems and improving one good habit.
 - 🖼️ Screenshot:
 
 - ![Merge Sort](https://github.com/AkankshaLavale/30-Days-Challenge/blob/main/mergesortcode.jpg?raw=true)
+- ![leetcode](https://github.com/AkankshaLavale/30-Days-Challenge/blob/main/leetcode%20119.jpg)
 
 
 
