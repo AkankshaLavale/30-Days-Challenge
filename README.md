@@ -32,5 +32,24 @@ Every day, I’ll be solving DSA problems and improving one good habit.
 ![Quick Sort Code](https://github.com/AkankshaLavale/30-Days-Challenge/blob/main/mergesortcode.jpg)
 
 
+✅ Day 4 - Backtracking Practice
+📌 DSA Topics Covered: Backtracking, Subsets Generation, Parentheses Generation
+
+✅ Problems Solved:
+
+Generate Parentheses (Leetcode 22)
+
+Subsets (Leetcode 78)
+
+🧠 Concepts Practiced:
+
+Backtracking strategy with decision trees
+
+Valid combinations of parentheses using recursion
+
+Power set generation using recursion and backtracking
+
+
+
 
 
